@@ -1,0 +1,13 @@
+2a1f287e9fe18d5d456900ae91a4848c *DESCRIPTION
+f62bc0117e390acc494211df7147ec8e *NAMESPACE
+58dced3b09ac91f80d3dfc181333ebb1 *NEWS.md
+48d447f4027a46c202be52fe791ec70d *R/funkyheatmap.R
+ad326795069d56f09df29424a39097a7 *R/oncoplot.r
+972175a799fa2f3d9389c4545fd8f2fb *R/upset.R
+bb3cea54baf640ba1d643dfeeb92cdf7 *man/funky_bar.Rd
+e683e1b02851de4470df59c6b145ad9e *man/funky_heatmap.Rd
+609b58a4483b757a577a1a5b49c2198d *man/funky_point.Rd
+02f87fa6a6fa2d9a1ef6528dd4f3356e *man/funky_text.Rd
+06d77e0f951772f31d80adc978a29395 *man/get_all_subsets.Rd
+7adb5ea7e12078f90b8f4c8a0eeb7a8f *man/oncoplot.Rd
+356ee1222b1851b86239b4ada9766221 *man/upset_plot.Rd
