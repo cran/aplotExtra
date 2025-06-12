@@ -1,10 +1,11 @@
-27b70030bce297089d67b62c12edcf11 *DESCRIPTION
-689a6162605ee06f1a2126717f52923c *NAMESPACE
-9831da4a4e7e17a8caa550eb5682dbe8 *NEWS.md
+8086cff581b994f702dea3fbf25f6a38 *DESCRIPTION
+b6a62582af3122cde9f5d429289a374b *NAMESPACE
+c0629caf2199f71631138ae3372d35fe *NEWS.md
 da7bac5323d313dfbcdb38f8fbf613f0 *R/aplotExtra-package.R
 48d447f4027a46c202be52fe791ec70d *R/funkyheatmap.R
-2b90285f6f1c46ed4bf6ea0c29f0b57e *R/oncoplot.r
-972175a799fa2f3d9389c4545fd8f2fb *R/upset.R
+90be36af0c1bc3cd67910b936e0250c5 *R/oncoplot.r
+2a707af844516efeb4c7757d16433f59 *R/upset.R
+2bd3fdc86f14c07a82f8bc4f7cd2cf3e *inst/CITATION
 a88d58dfe5a53597d97a530ecf241ebc *man/aplotExtra-package.Rd
 bb3cea54baf640ba1d643dfeeb92cdf7 *man/funky_bar.Rd
 e683e1b02851de4470df59c6b145ad9e *man/funky_heatmap.Rd
@@ -12,4 +13,4 @@ e683e1b02851de4470df59c6b145ad9e *man/funky_heatmap.Rd
 02f87fa6a6fa2d9a1ef6528dd4f3356e *man/funky_text.Rd
 06d77e0f951772f31d80adc978a29395 *man/get_all_subsets.Rd
 7adb5ea7e12078f90b8f4c8a0eeb7a8f *man/oncoplot.Rd
-356ee1222b1851b86239b4ada9766221 *man/upset_plot.Rd
+f83ce91496c968a4892df5190e18109a *man/upset_plot.Rd
